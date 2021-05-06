@@ -34,6 +34,7 @@ def quote(search):
            "market_cap": data["S1315"],
            "shares": data["S1314"],
            "short_interest": data["sta0c"],
+           "shortet_shares": data["sta08"]
            "currency": data["S9"],
            "P/S": data["st415"],
            "P/B": data["st408"],
